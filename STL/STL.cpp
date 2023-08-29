@@ -439,7 +439,7 @@ unordered_map<int,int>um;
 
 int main(){
 
-//Pair();
+Pair();
 
 //Vectors();
 
